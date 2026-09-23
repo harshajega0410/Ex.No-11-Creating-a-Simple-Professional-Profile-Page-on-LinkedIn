@@ -30,11 +30,10 @@ Click “Add profile section” → “Skills” and add relevant skills such as
 LinkedIn shows a “Profile strength” indicator (e.g., Beginner, Intermediate, All-Star) that reflects how complete the profile is. Fill in any remaining suggested sections to improve this rating. Also check Settings → “Visibility” to control what parts of the profile are publicly visible versus visible only to connections.
 ## Step 10: Publishing and Sharing the Profile
 Once all sections are filled in, click “View profile” to see how it appears to others. Click the “Share profile” or “Copy link to profile” option to get a shareable URL, which can be added to a resume, email signature, or ID card for easy access by recruiters, peers, and students.
-## SAMPLE OUTPUT SCREEN
-The screen below shows a sample completed LinkedIn profile page, illustrating how the name, headline, About section, and Experience section appear once the profile has been filled in.
-<img width="572" height="439" alt="image" src="https://github.com/user-attachments/assets/be7d299c-31c9-49fc-9f8f-63853af11bd6" />
+
 ## OUTPUT
-A simple, professional LinkedIn profile page is created, containing a profile photo, background banner, headline, About summary, Education, Experience, and Skills sections, and is ready to be shared through a public profile link.
+<img width="738" height="1600" alt="WhatsApp Image 2026-09-23 at 3 03 44 PM" src="https://github.com/user-attachments/assets/30967785-ad5c-447d-b5ac-2167815ad707" />
+
 ## RESULT
 Thus, a simple and professional profile page was successfully created on LinkedIn, with all essential sections filled in correctly and the profile made ready for sharing.
 ## CONCLUSION
