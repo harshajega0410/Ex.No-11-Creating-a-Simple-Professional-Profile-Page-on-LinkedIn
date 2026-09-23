@@ -29,7 +29,8 @@ Click “Add profile section” → “Skills” and add relevant skills such as
 ## Step 9: Reviewing Profile Strength and Privacy Settings
 LinkedIn shows a “Profile strength” indicator (e.g., Beginner, Intermediate, All-Star) that reflects how complete the profile is. Fill in any remaining suggested sections to improve this rating. Also check Settings → “Visibility” to control what parts of the profile are publicly visible versus visible only to connections.
 ## Step 10: Publishing and Sharing the Profile
-Once all sections are filled in, click “View profile” to see how it appears to others. Click the “Share profile” or “Copy link to profile” option to get a shareable URL, which can be added to a resume, email signature, or ID card for easy access by recruiters, peers, and students.
+Once all sections are filled in, click “View profile” to see how it appears to others. Click the “Share profile” or “Copy link to profile” option to get a shareable URL, which can be added to a resume, email signature, or ID card for easy access <img width="738" height="1600" alt="WhatsApp Image 2026-09-23 at 3 03 44 PM" src="https://github.com/user-attachments/assets/ee716c61-ecdc-4b10-a9c2-99e2ffc8f411" />
+ recruiters, peers, and students.
 
 ## OUTPUT
 <img width="738" height="1600" alt="WhatsApp Image 2026-09-23 at 3 03 44 PM" src="https://github.com/user-attachments/assets/30967785-ad5c-447d-b5ac-2167815ad707" />
